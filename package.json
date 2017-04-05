@@ -1,0 +1,17 @@
+{
+  "name": "hs",
+  "version": "0.0.1",
+  "description": "hs scrapy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "scrapy"
+  ],
+  "author": "matrixhero",
+  "license": "MIT",
+  "dependencies": {
+    "leancloud-storage": "^2.1.4"
+  }
+}
