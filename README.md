@@ -7,7 +7,7 @@ git clone https://github.com/MatrixHero/hs_scrapy.git
 cd hs_scrapy
 npm install
 ``` 
-### 在config下  'app_id'、'app_key'填写[leancloud](https://leancloud.cn)申请的key
+### 在config下填写[leancloud](https://leancloud.cn)申请的 'app_id'、'app_key'
 
 ``` 
 node index.js
